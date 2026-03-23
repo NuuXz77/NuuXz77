@@ -1,11 +1,11 @@
 <!-- 🔥 HEADER GIF + TYPING -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Foa8xb7oacfgb1.gif" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+Enthusiast;Problem+Solver;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Laravel+Enthusiast;Problem+Solver;Always+Learning" />
 </p>
 
 ---
