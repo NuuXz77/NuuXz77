@@ -1,7 +1,7 @@
 <!-- 🔥 HEADER GIF + TYPING -->
 
 <p align="center">
-  <img src="https://animesher.com/orig/1/133/1332/13327/animesher.com_monkey-d-luffy-one-piece-gif-1332725.gif" width="500" />
+  <img src="https://animesher.com/orig/1/133/1332/13327/animesher.com_monkey-d-luffy-one-piece-gif-1332725.gif" width="250" />
 </p>
 
 <p align="center">
